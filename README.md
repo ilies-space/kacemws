@@ -11,7 +11,7 @@
 
 - 🤝 Currently working on a **Design System named midlight**
 
-- 👨‍💻 Some of my projects are available at [www.belkacember.com](www.belkacember.com)
+- 👨‍💻 Some of my projects are available at <a target="_blank"  href = "https://www.belkacember.com">www.belkacember.com</a>
 
 - 💬 Ask me about **react,node, flutter or gsap**
 
